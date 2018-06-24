@@ -1,0 +1,87 @@
+/*
+User-agents list used by many devices, crawlers,
+and the like. This list is not exhaustive, but
+is (probably) enough to obfuscate a proper attack.
+
+One may use these to circumvent User-agent-based
+WAF and other IDS made to screen the requesting
+party.
+*/
+
+//Wii
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 3642; it)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 3642; de)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 3642; ja)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 2047-7;es)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 2047-7;en)
+User-agent: Opera/9.10 (Nintendo Wii; U; ; 1621; en)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 3642; fr)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 2071; Wii Shop Channel/1.0; en)
+User-agent: Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Shop Channel/1.0; en)
+User-agent: Opera/9.00 (Nintendo Wii; U; ; 1038-58; Internet Channel/1.0; en)
+User-agent: Opera/9.30 (Nintendo Wii; U; ; 2077-4; Wii Shop Channel/21.0(A); en)
+
+
+//XBox One
+User-agent: Mozilla/5.1 (Xbox;Xbox One; x32;Win32)
+User-agent: Mozilla/5.0 (Xbox; Xbox One) Gecko/20101104 Netscape/9.1.0285
+User-agent: Mozilla/5.0(compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One)
+
+//Playstation 3
+User-agent: Mozilla/5.0 (PLAYSTATION 3 4.81) AppleWebKit/531.22.8 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PLAYSTATION 3 4.82) AppleWebKit/531.22.8 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PLAYSTATION 3 4.76) AppleWebKit/531.22.8 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PLAYSTATION 3 4.78) AppleWebKit/531.22.8 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PLAYSTATION 3 4.31) AppleWebKit/531.22.8 (KHTML, like Gecko)
+
+//PSVita
+User-agent: Mozilla/5.0 (PlayStation Vita 3.65) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+User-agent: Mozilla/5.0 (PlayStation Vita 3.67) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+User-agent: Mozilla/5.0 (PlayStation Vita 3.60) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+User-agent: Mozilla/5.0 (PlayStation Vita 3.57) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+User-agent: Mozilla/5.0 (PlayStation Vita 3.55) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+User-agent: Mozilla/5.0 (PlayStation Vita 3.60)(変革-6) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+User-agent: Mozilla/5.0 (PlayStation Vita 3.36) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2 VTE/3.36
+User-agent: Mozilla/5.0 (PlayStation Vita 3.15) AppleWebKit/536.26 (KHTML, like Gecko) Silk/3.2
+
+//Playstation 4 
+User-agent: Mozilla/5.0 (PlayStation 4 4.71)
+User-agent: Mozilla/5.0 (PlayStation 4 Pro 5.0)
+User-agent: Mozilla/5.0 (PlayStation 4 4.07) AppleWebKit/537.78 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PLAYSTATION 3 4.76) AppleWebKit/531.22.8 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.72) AppleWebKit/601.2 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 5.53) AppleWebKit/601.2 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.71) AppleWebKit/601.2 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.06) AppleWebKit/537.78 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.70) AppleWebKit/601.2 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.05) AppleWebKit/537.78 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.00) AppleWebKit/537.78 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.55) AppleWebKit/601.2 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.01) AppleWebKit/537.78 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 3.00) AppleWebKit/537.73 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 4.50) AppleWebKit/601.2 (KHTML, like Gecko)
+User-agent: Mozilla/5.0 (PlayStation 4 2.55) AppleWebKit/537.73 (KHTML, like Gecko)
+
+//Bing
+User-agent: Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+
+//Google
+User-agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User-agent: Google-favicon
+User-agent: Mediapartners-Google
+User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 Google (+https://developers.google.com/+/web/snippet/)
+User-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+
+//Baidu
+User-agent: Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+
+//Pinterest
+User-agent: Pinterest/0.2 (+http://www.pinterest.com/)
+User-agent: Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)
+
+//Twitter
+User-agent: Twitterbot/1.0
+
+//Facebook
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
